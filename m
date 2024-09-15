@@ -10,7 +10,7 @@
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
    "lives": [
-{"name": "me_2024","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/disc/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+{"name": "me_2024","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/expkids/disc/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "warningText": "華哥提醒你:請不要相信視頻中的广告.多謝大家.",
 
