@@ -27,9 +27,13 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
+{"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","纪录片","动作片","科幻片","剧情片","喜剧片","战争片","爱情片","泰国剧","国产动漫","大陆综艺","港台综艺","日本动漫","日本综艺","综艺频道","新马泰综艺"]},   
+    
+
+
  {
-            "key": "華哥",
-            "name": "SW-華哥",
+            "key": "華 哥",
+            "name": "SW-華哥kuaiche",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -190,7 +194,7 @@
             ]
         },
 
-{"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
+
 {"key":"暴风资源","name": "SW暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
 
 {
@@ -200,6 +204,7 @@
   "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
+
 {"key": "sgabys","name": "華哥-星际UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 
 
@@ -211,7 +216,7 @@
 
 
 
-{"key": "nangua","name": "SW南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+
 {    "key": "t4直播转点播",
       "name": "swT4丨教育",
       "type": 4,
@@ -258,21 +263,19 @@
 
 
 
- {"key": "nangua","name": "sw-南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+ {"key": "nangua","name": "sw-南瓜","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
       
-    {
-            "key": "圣城影视",
-            "name": "sw-圣城",
-              "jar": "http://47.99.102.252/jar/xc.jar",
-            "type": 3,
-            "api": "csp_SC1080",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   
+{
+      "key": "苹  果a",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },
 	
-		
   
        
         {
